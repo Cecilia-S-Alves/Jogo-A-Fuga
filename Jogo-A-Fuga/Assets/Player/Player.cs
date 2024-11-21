@@ -58,5 +58,6 @@ public class Player : MonoBehaviour
             isground = true;
             Debug.Log(isground);
         }
+
     }
 }
